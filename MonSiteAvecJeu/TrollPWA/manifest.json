@@ -1,0 +1,8 @@
+{
+  "name": "Troll Game",
+  "short_name": "Troll",
+  "start_url": "troll_multi_levels.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ff00"
+}
